@@ -14,5 +14,6 @@ Essa página foi criada com base no <a href="https://www.codecademy.com/courses/
 
 ## Imagens
 
-![Print 1 da Página Blog Fashion](/img/blog-fashion1.png)
-![Print 2 da Página Blog Fashion](/img/blog-fashion2.png)
+![Print 1 da Página Blog Fashion](img/blog-fashion1.png)
+
+![Print 2 da Página Blog Fashion](img/blog-fashion2.png)
