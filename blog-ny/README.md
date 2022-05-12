@@ -16,4 +16,4 @@ Essa página foi criada com base no <a href="https://www.codecademy.com/courses/
 
 ## Imagens
 
-![Print do site do formulário](img/site-formulario1.png)
+![Print do Blog Sobre Nova York](img/blog-ny1.png)
