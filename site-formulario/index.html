@@ -26,22 +26,40 @@
       <!--Add your form below:-->
       <form action="story.html" method="GET">
         <label for="animal-1">Animal:</label>
-        <input id="animal-1" type="text" name="animal-1" required />
+        <input
+          id="animal-1"
+          type="text"
+          name="animal-1"
+          value="Gato"
+          required
+        />
         <br />
         <label for="animal-2">Another Animal:</label>
-        <input id="animal-2" type="text" name="animal-2" required />
+        <input
+          id="animal-2"
+          type="text"
+          name="animal-2"
+          value="Cachorro"
+          required
+        />
         <br />
         <label for="animal-3">More Animal:</label>
-        <input id="animal-3" type="text" name="animal-3" required />
+        <input
+          id="animal-3"
+          type="text"
+          name="animal-3"
+          value="Ratinho"
+          required
+        />
         <br />
         <label for="adj-1">Adjective (past tense):</label>
-        <input id="adj-1" type="text" name="adj-1" required />
+        <input id="adj-1" type="text" name="adj-1" value="Bonito" required />
         <br />
         <label for="verb-1">Verb (ends in -ing):</label>
-        <input id="verb-1" name="verb-1" type="text" required />
+        <input id="verb-1" name="verb-1" type="text" value="Rosnar" required />
         <br />
         <label for="num-1">Number:</label>
-        <input id="num-1" name="num-1" type="number" required /><br />
+        <input id="num-1" name="num-1" type="number" value="2" required /><br />
         <span>Yes or No:</span>
         <input id="yes" name="answer" type="radio" value="yes" required />
         <label for="yes">Yes</label>
@@ -61,6 +79,7 @@
           name="quote"
           type="text"
           list="quote-choices"
+          value="winner gets ice cream!"
           required
         />
         <datalist id="quote-choices">
@@ -80,6 +99,9 @@
           name="message"
           rows="8"
           cols="40"
+          placeholder="Fale da sua vida"
+          pattern="[A-Za-z]"
+          minlength="5"
           required
         ></textarea>
         <br />
