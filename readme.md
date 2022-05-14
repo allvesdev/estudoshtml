@@ -17,13 +17,17 @@ HTML e VS Code.
 ## Imagens
 
 - Formulário 1
-  ![Print do site do formulário](img/site-formulario1.png)
+
+  ![Print do site do formulário](/site-formulario/img/site-formulario1.png)
 
 - Festival de Vinhos
+
   ![Print do site Festival de Vinhos](/site-festival-de-vinhos/img/festival-vinhos1.png)
 
 - Blog Nova York
+
   ![Print do site Festival de Vinhos](/blog-ny/img/blog-ny1.png)
 
 - Blog Fashion
+
   ![Print do site Festival de Vinhos](/blog-fashion/img/blog-fashion1.png)
