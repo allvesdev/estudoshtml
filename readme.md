@@ -1,20 +1,21 @@
-# Projetos de estudo - Cursos HTML
+# Study projects - HTML courses
 
-## Descrição
+## Description
 
-Repositório dedicado a armazenar projetos feitos à partir de cursos HTML.
+Repository dedicated to storing projects made from HTML courses.
 
-## O que foi utilizado?
+## What was used?
 
 HTML e VS Code.
 
-<em>Obs: alguns documentos possuem páginas em .css e .js que não foram escritas por mim pois até o momento de término deste README.md eu não tinha conhecimento necessário para tal.</em>
+<em>Note: some documents have pages in .css and .js that were not written by me because until the end of this README.md I did not have the necessary knowledge to do so.</em>
 
-## Referências
+## References
 
 - <a href="https://www.codecademy.com/learn/learn-html" target="_blank"><em>Curso HTML Codecademy</em></a>
+- <a href="https://www.startse.com/techacademy/" target="_blank"><em>Tech Academy programming course by StartSe</em></a>
 
-## Imagens
+## Screenshots
 
 - Formulário 1
 
