@@ -12,7 +12,7 @@ HTML e VS Code.
 
 ## References
 
-- <a href="https://www.codecademy.com/learn/learn-html" target="_blank"><em>Curso HTML Codecademy</em></a>
+- <a href="https://www.codecademy.com/learn/learn-html" target="_blank"><em>Codecademy HTML course</em></a>
 - <a href="https://www.startse.com/techacademy/" target="_blank"><em>Tech Academy programming course by StartSe</em></a>
 
 ## Screenshots
