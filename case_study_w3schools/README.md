@@ -14,4 +14,4 @@ this webpage was created based on the <a href="https://www.startse.com/techacade
 
 ## screenshots
 
-![screenshot of the case study HTML page](/img/caseprint1.png)
+![screenshot of the case study HTML page](/case_study_w3schools/img/caseprint1.png)
